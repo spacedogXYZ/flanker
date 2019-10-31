@@ -25,6 +25,7 @@ pip-log.txt
 # Unit test / coverage reports
 .coverage
 .tox
+htmlcov
 nosetests.xml
 
 # Translations
@@ -40,4 +41,9 @@ nosetests.xml
 
 # PLY
 parser.out
-parsetab.py
+
+# OSX
+.DS_Store
+
+# Goland
+.idea/
